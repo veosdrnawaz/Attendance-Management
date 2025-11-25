@@ -1,0 +1,5 @@
+{
+  "name": "Smart Attendance Manager",
+  "description": "A multi-tenant SaaS for educational institutions to manage attendance, built with Google Sheets and Google Apps Script.",
+  "requestFramePermissions": []
+}
